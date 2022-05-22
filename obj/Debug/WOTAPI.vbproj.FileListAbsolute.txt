@@ -1,0 +1,7 @@
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WOTAPI.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WOTAPI.vbprojAssemblyReference.cache
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WOTAPI.dll.config
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WOTAPI.dll
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WOTAPI.pdb
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WOTAPI.dll
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WOTAPI.pdb

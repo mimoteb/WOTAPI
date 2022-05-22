@@ -1,0 +1,10 @@
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WorldOfTanks.dll.config
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WorldOfTanks.dll
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\WorldOfTanks.pdb
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Programming\World of tanks\WOTAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WorldOfTanks.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WorldOfTanks.vbproj.CopyComplete
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WorldOfTanks.dll
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WorldOfTanks.pdb
+D:\Projects\Programming\World of tanks\WOTAPI\obj\Debug\WorldOfTanks.vbprojAssemblyReference.cache
